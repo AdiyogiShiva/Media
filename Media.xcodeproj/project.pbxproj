@@ -7,21 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E1A41203225C945200F2598D /* BaahubaliConclusionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A41202225C945200F2598D /* BaahubaliConclusionViewController.swift */; };
+		E1A41205225C948700F2598D /* MagadheeraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A41204225C948700F2598D /* MagadheeraViewController.swift */; };
+		E1A41207225C949F00F2598D /* NVNVViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A41206225C949F00F2598D /* NVNVViewController.swift */; };
+		E1A41209225C94B300F2598D /* OrangeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A41208225C94B300F2598D /* OrangeViewController.swift */; };
+		E1A4120B225C94C000F2598D /* AwaaraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A4120A225C94C000F2598D /* AwaaraViewController.swift */; };
+		E1A4120D225C94CE00F2598D /* AthaduViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A4120C225C94CE00F2598D /* AthaduViewController.swift */; };
+		E1A4120F225C94DB00F2598D /* AryaTwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A4120E225C94DB00F2598D /* AryaTwoViewController.swift */; };
 		E1F4215D225C5D0400AA27D3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F4215C225C5D0400AA27D3 /* AppDelegate.swift */; };
-		E1F4215F225C5D0400AA27D3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F4215E225C5D0400AA27D3 /* ViewController.swift */; };
+		E1F4215F225C5D0400AA27D3 /* SongsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F4215E225C5D0400AA27D3 /* SongsViewController.swift */; };
 		E1F42162225C5D0400AA27D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1F42160225C5D0400AA27D3 /* Main.storyboard */; };
 		E1F42164225C5D0600AA27D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1F42163225C5D0600AA27D3 /* Assets.xcassets */; };
 		E1F42167225C5D0600AA27D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1F42165225C5D0600AA27D3 /* LaunchScreen.storyboard */; };
+		E1F4216F225C5E7900AA27D3 /* TrailersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F4216E225C5E7900AA27D3 /* TrailersViewController.swift */; };
+		E1F42171225C5E8A00AA27D3 /* TalkingTomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F42170225C5E8A00AA27D3 /* TalkingTomViewController.swift */; };
+		E1F42173225C782200AA27D3 /* BaahubaliBeginingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F42172225C782100AA27D3 /* BaahubaliBeginingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E1A41202225C945200F2598D /* BaahubaliConclusionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaahubaliConclusionViewController.swift; sourceTree = "<group>"; };
+		E1A41204225C948700F2598D /* MagadheeraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagadheeraViewController.swift; sourceTree = "<group>"; };
+		E1A41206225C949F00F2598D /* NVNVViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NVNVViewController.swift; sourceTree = "<group>"; };
+		E1A41208225C94B300F2598D /* OrangeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrangeViewController.swift; sourceTree = "<group>"; };
+		E1A4120A225C94C000F2598D /* AwaaraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AwaaraViewController.swift; sourceTree = "<group>"; };
+		E1A4120C225C94CE00F2598D /* AthaduViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AthaduViewController.swift; sourceTree = "<group>"; };
+		E1A4120E225C94DB00F2598D /* AryaTwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AryaTwoViewController.swift; sourceTree = "<group>"; };
 		E1F42159225C5D0400AA27D3 /* Media.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Media.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1F4215C225C5D0400AA27D3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E1F4215E225C5D0400AA27D3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E1F4215E225C5D0400AA27D3 /* SongsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongsViewController.swift; sourceTree = "<group>"; };
 		E1F42161225C5D0400AA27D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E1F42163225C5D0600AA27D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1F42166225C5D0600AA27D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1F42168225C5D0600AA27D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1F4216E225C5E7900AA27D3 /* TrailersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailersViewController.swift; sourceTree = "<group>"; };
+		E1F42170225C5E8A00AA27D3 /* TalkingTomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TalkingTomViewController.swift; sourceTree = "<group>"; };
+		E1F42172225C782100AA27D3 /* BaahubaliBeginingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaahubaliBeginingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,11 +75,21 @@
 			isa = PBXGroup;
 			children = (
 				E1F4215C225C5D0400AA27D3 /* AppDelegate.swift */,
-				E1F4215E225C5D0400AA27D3 /* ViewController.swift */,
+				E1F4215E225C5D0400AA27D3 /* SongsViewController.swift */,
 				E1F42160225C5D0400AA27D3 /* Main.storyboard */,
 				E1F42163225C5D0600AA27D3 /* Assets.xcassets */,
 				E1F42165225C5D0600AA27D3 /* LaunchScreen.storyboard */,
 				E1F42168225C5D0600AA27D3 /* Info.plist */,
+				E1F4216E225C5E7900AA27D3 /* TrailersViewController.swift */,
+				E1F42170225C5E8A00AA27D3 /* TalkingTomViewController.swift */,
+				E1F42172225C782100AA27D3 /* BaahubaliBeginingViewController.swift */,
+				E1A41202225C945200F2598D /* BaahubaliConclusionViewController.swift */,
+				E1A41204225C948700F2598D /* MagadheeraViewController.swift */,
+				E1A41206225C949F00F2598D /* NVNVViewController.swift */,
+				E1A41208225C94B300F2598D /* OrangeViewController.swift */,
+				E1A4120A225C94C000F2598D /* AwaaraViewController.swift */,
+				E1A4120C225C94CE00F2598D /* AthaduViewController.swift */,
+				E1A4120E225C94DB00F2598D /* AryaTwoViewController.swift */,
 			);
 			path = Media;
 			sourceTree = "<group>";
@@ -135,8 +165,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1F4215F225C5D0400AA27D3 /* ViewController.swift in Sources */,
+				E1A41205225C948700F2598D /* MagadheeraViewController.swift in Sources */,
+				E1F4215F225C5D0400AA27D3 /* SongsViewController.swift in Sources */,
+				E1A41207225C949F00F2598D /* NVNVViewController.swift in Sources */,
+				E1A4120B225C94C000F2598D /* AwaaraViewController.swift in Sources */,
+				E1A4120F225C94DB00F2598D /* AryaTwoViewController.swift in Sources */,
 				E1F4215D225C5D0400AA27D3 /* AppDelegate.swift in Sources */,
+				E1F42171225C5E8A00AA27D3 /* TalkingTomViewController.swift in Sources */,
+				E1A41209225C94B300F2598D /* OrangeViewController.swift in Sources */,
+				E1F42173225C782200AA27D3 /* BaahubaliBeginingViewController.swift in Sources */,
+				E1F4216F225C5E7900AA27D3 /* TrailersViewController.swift in Sources */,
+				E1A41203225C945200F2598D /* BaahubaliConclusionViewController.swift in Sources */,
+				E1A4120D225C94CE00F2598D /* AthaduViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
